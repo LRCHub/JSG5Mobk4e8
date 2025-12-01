@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ラヴィ",
+  "base_artist": "すりぃ",
+  "createdAt": "2025-12-01T16:47:48.948014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラヴィ - すりぃ ver",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_ラヴィ_-_すりぃ_ver_すりぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovin' Life",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_01_Lovin'_Life_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Lovin' Life",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_02_Lovin'_Life_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Lovin' you",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_03_Lovin'_you_FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LOVE is.",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_04_LOVE_is._FUNKY_MONKEY_BABYS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "LOVE IS THE GREATEST THING",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_05_LOVE_IS_THE_GREATEST_THING_FUNKY_MONKEY_BABYS.txt"
+    }
+  ]
+}
